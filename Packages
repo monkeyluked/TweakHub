@@ -1,0 +1,27 @@
+Package: com.itweakos.cylinder2
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: LukeDixon <lukeodixon@gmail.com>
+Filename: /CYLINDER.deb
+Size: 330868
+MD5sum: 36CCF9ECCDE83B1A1DEA0FBA55299C68
+SHA1: 23669B6F3788E766A0AE4317891B36CF77DF9131
+SHA256: F1495D6A1DE9A7947548452FC90B0CE7923A7710AD3C0C8D2F591B697C78F2B5
+Section: Tweaks
+Description: Cylinder is a page switcher animation tweak. It will animate page switching animations.
+Author: Reed Weichler (bigboss@thebigboss.org)
+Name: Cylinder 2
+
+Package: com.itweakos.AsTeRoId
+Version: 1.9.9
+Architecture: iphoneos-arm
+Maintainer: LukeDixon <lukeodixon@gmail.com>
+Filename: /com.midnightchips.asteroid_1.9.9_iphoneos-arm.deb
+Size: 624646
+MD5sum: 6F51D3572C981D1696B881722B9B6019
+SHA1: EDF1142F9E4587AA12B787BB8AFA706D954B20D2
+SHA256: 011A23977F9E1A36574C66C9CF77C2C491A77CF735750F4F3424A9FEAAED1722
+Section: Tweaks
+Description: Asteroid is a nice weather tweak. It will add a system-wide dissmisible weather-notify widget.
+Author: MidnightChips (idontknow@idk.org)
+Name: AsTeRoId
